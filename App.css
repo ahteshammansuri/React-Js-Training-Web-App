@@ -1,0 +1,29 @@
+.topHeader {
+  background: rgb(1,106,120);
+  margin: 0px;
+  padding-top: 1px;
+  position: inherit;
+}
+.topHeader p {
+  color: white;
+  text-align: center;
+}
+
+.featureCategory {
+  display: inline-flex;
+}
+/* .featureCategory *{
+  text-align: center;
+} */
+
+.card *{
+  margin: 0%;
+  padding: 0%;
+  height: 200px;
+  text-align: center;
+}
+
+.card img {
+  height: 500px;
+  width: 500px;
+}
